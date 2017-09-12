@@ -14,4 +14,5 @@
 * 序列模型
 
 ### 下为学习课程图片
-![mark](http://ojmcn9nlw.qnssl.com/blog/20170903/220626537.png?imageslim)
+
+![学习课程](http://ojmcn9nlw.qnssl.com/blog/20170903/220626537.png?imageslim)
