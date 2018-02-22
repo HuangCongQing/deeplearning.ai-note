@@ -10,13 +10,21 @@
 
 
  ## Course 1. [神经网络和深度学习 Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+
+
  
 1. Week1 - [第一周：深度学习引言(Introduction to Deep Learning)]()
 2. Week2 - [第二周：神经网络的编程基础(Basics of Neural Network programming)]()
 3. Week3 - [第三周：浅层神经网络(Shallow neural networks)]()
 4. Week4 - [第四周：深层神经网络(Deep Neural Networks)]()
 
+ * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/01%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
+ * [编程作业题]()
+
+
 ## Course 2. [改善深层神经网络 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
+
+
 
 1. Week1 - [第一周：深度学习的实用层面(Practical aspects of Deep Learning)]()
          - Setting up your Machine Learning Application
@@ -24,6 +32,9 @@
          - Setting up your optimization problem
 2. Week2 - [第二周：优化算法 (Optimization algorithms)]()
 3. Week3 - [第三周超参数调试，batch正则化和程序框架（Hyperparameter tuning, Batch Normalization and Programming Frameworks)]()
+
+ * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/02%E6%94%B9%E5%96%84%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
+ * [编程作业题]()
 
 ## Course 3. [结构化机器学习项目 Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
@@ -35,6 +46,9 @@
          - Mismatched training and dev/test set
          - Learning from multiple tasks
          - End-to-end deep learning
+
+ * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/03%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
+ * [编程作业题]()
          
  ## Course 4. [卷积神经网络 Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
@@ -43,12 +57,15 @@
  3. Week3 - [第三周 目标检测（Object detection）]() 
  4. Week4 - [第四周 特殊应用：人脸识别和神经风格转换（Special applications: Face recognition &Neural style transfer）]() 
 
-
+ * [测验题Quiz]()
+ * [编程作业题]()
  ## Course 5. [序列模型 Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
  1. Week1 - [Recurrent Neural Networks]()
  2. Week2 - [Natural Language Processing & Word Embeddings]()
  3. Week3 - [Sequence models & Attention mechanism]()
 
+ * [测验题Quiz]()
+ * [编程作业题]()
 
 ## 可学习参考资料
 
@@ -59,7 +76,7 @@
 
 ## TO DO
 
-
+持续更新中... ...
 
 
 
