@@ -15,19 +15,19 @@
 
 ## Course 2. [改善深层神经网络 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
-1. Week1 - [Practical aspects of Deep Learning]()
+1. Week1 - [第一周：深度学习的实用层面(Practical aspects of Deep Learning)]()
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
-2. Week2 - [Optimization algorithms]()
-3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks]()
+2. Week2 - [第二周：优化算法 (Optimization algorithms)]()
+3. Week3 - [第三周超参数调试，batch正则化和程序框架（Hyperparameter tuning, Batch Normalization and Programming Frameworks)]()
 
 ## Course 3. [结构化机器学习项目 Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-1. Week1 - [Introduction to ML Strategy]()
+1. Week1 - [第一周：机器学习策略（1）(ML Strategy (1))]()
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - [ML Strategy (2)]()
+2. Week2 - [第二周：机器学习策略（2）(ML Strategy (2))]()
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
@@ -35,10 +35,10 @@
          
  ## Course 4. [卷积神经网络 Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
- 1. Week1 - [Foundations of Convolutional Neural Networks]()
- 2. Week2 - [Deep convolutional models: case studies]() 
- 3. [Week3 - Object detection]() 
- 4. Week4 - [Special applications: Face recognition & Neural style transfer]() 
+ 1. Week1 - [第一周 卷积神经网络(Foundations of Convolutional Neural Networks)]()
+ 2. Week2 - [第二周 深度卷积网络：实例探究(Deep convolutional models: case studies)]() 
+ 3. Week3 - [第三周 目标检测（Object detection）]() 
+ 4. Week4 - [第四周 特殊应用：人脸识别和神经风格转换（Special applications: Face recognition &Neural style transfer）]() 
 
 
  ## Course 5. [序列模型 Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
@@ -49,6 +49,7 @@
 
 ## 可学习参考资料
 
+* [笔记在线阅读](http://www.ai-start.com/dl2017)
 * http://blog.csdn.net/hdhuangzhihao
 * http://blog.csdn.net/justry24/article/category/7159918
 
