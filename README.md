@@ -4,24 +4,7 @@
 * Coursera视频（收费，不过可以申请免费）：https://www.coursera.org/specializations/deep-learning
 
 ###  **[笔记在线阅读http://www.ai-start.com/dl2017](http://www.ai-start.com/dl2017)**
-### 目录结构
-```
-├─01神经网络和深度学习
-│  ├─Code编程作业
-│  └─Quiz测验题
-├─02改善深度神经网络
-│  ├─Code编程作业
-│  └─Quiz测验题
-├─03结构化机器学习项目
-│  ├─Code编程作业
-│  └─Quiz测验题
-├─04卷积神经网络
-│  ├─Code编程作业
-│  └─Quiz测验题
-├─05序列模型
-│  ├─Code编程作业
-│  └─Quiz测验题
-```
+
 ### 深度学习专项课程(Deep Learning Specialization on Coursera)
 
 
@@ -84,6 +67,25 @@
 
  * [测验题Quiz]()
  * [编程作业题]()
+
+ ### 目录结构
+```
+├─01神经网络和深度学习
+│  ├─Code编程作业
+│  └─Quiz测验题
+├─02改善深度神经网络
+│  ├─Code编程作业
+│  └─Quiz测验题
+├─03结构化机器学习项目
+│  ├─Code编程作业
+│  └─Quiz测验题
+├─04卷积神经网络
+│  ├─Code编程作业
+│  └─Quiz测验题
+├─05序列模型
+│  ├─Code编程作业
+│  └─Quiz测验题
+```
 
 ## 可学习参考资料
 
