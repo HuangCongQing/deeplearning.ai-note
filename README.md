@@ -49,7 +49,8 @@
 
 ## 可学习参考资料
 
-
+* http://blog.csdn.net/hdhuangzhihao
+* http://blog.csdn.net/justry24/article/category/7159918
 
 
 
