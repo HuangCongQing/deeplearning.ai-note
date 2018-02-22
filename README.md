@@ -3,20 +3,6 @@
 
 ### 深度学习专项课程(Deep Learning Specialization on Coursera)
 
-* Course 1. Neural Networks and Deep Learning（神经网络和深度学习
-
-Week1 - Introduction to deep learning
-Week2 - Neural Networks Basics
-Week3 - Shallow neural networks
-Week4 - Deep Neural Networks
-
-* 改善深层神经网络
-
-* 结构化机器学习项目
-
-* 卷积神经网络
-
-* 序列模型
 
 
 
@@ -54,7 +40,7 @@ Week4 - Deep Neural Networks
  3. [Week3 - Object detection]() 
  4. Week4 - [Special applications: Face recognition & Neural style transfer]() 
 
- 
+
  ## Course 5. [Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)序列模型
  1. Week1 - [Recurrent Neural Networks]()
  2. Week2 - [Natural Language Processing & Word Embeddings]()
