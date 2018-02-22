@@ -27,22 +27,22 @@
 
 
 
-1. Week1 - [第一周：深度学习的实用层面(Practical aspects of Deep Learning)]()
+1. Week1 - [第一周：深度学习的实用层面(Practical aspects of Deep Learning)]
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
-2. Week2 - [第二周：优化算法 (Optimization algorithms)]()
-3. Week3 - [第三周超参数调试，batch正则化和程序框架（Hyperparameter tuning, Batch Normalization and Programming Frameworks)]()
+2. Week2 - [第二周：优化算法 (Optimization algorithms)]
+3. Week3 - [第三周超参数调试，batch正则化和程序框架（Hyperparameter tuning, Batch Normalization and Programming Frameworks)]
 
  * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/02%E6%94%B9%E5%96%84%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
  * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/02%E6%94%B9%E5%96%84%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Code%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/deeplearning%E7%AC%AC2%E4%B8%93%E9%A2%98%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A)
 
 ## Course 3. [结构化机器学习项目 Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
-1. Week1 - [第一周：机器学习策略（1）(ML Strategy (1))]()
+1. Week1 - [第一周：机器学习策略（1）(ML Strategy (1))]
          - Setting up your goal
          - Comparing to human-level performance
-2. Week2 - [第二周：机器学习策略（2）(ML Strategy (2))]()
+2. Week2 - [第二周：机器学习策略（2）(ML Strategy (2))]
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
@@ -53,17 +53,17 @@
          
  ## Course 4. [卷积神经网络 Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
- 1. Week1 - [第一周 卷积神经网络(Foundations of Convolutional Neural Networks)]()
- 2. Week2 - [第二周 深度卷积网络：实例探究(Deep convolutional models: case studies)]() 
- 3. Week3 - [第三周 目标检测（Object detection）]() 
- 4. Week4 - [第四周 特殊应用：人脸识别和神经风格转换（Special applications: Face recognition &Neural style transfer）]() 
+ 1. Week1 - [第一周 卷积神经网络(Foundations of Convolutional Neural Networks)]
+ 2. Week2 - [第二周 深度卷积网络：实例探究(Deep convolutional models: case studies)](
+ 3. Week3 - [第三周 目标检测（Object detection）]
+ 4. Week4 - [第四周 特殊应用：人脸识别和神经风格转换（Special applications: Face recognition &Neural style transfer）]
 
  * [测验题Quiz]()
  * [编程作业题]()
  ## Course 5. [序列模型 Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
- 1. Week1 - [Recurrent Neural Networks]()
- 2. Week2 - [Natural Language Processing & Word Embeddings]()
- 3. Week3 - [Sequence models & Attention mechanism]()
+ 1. Week1 - [Recurrent Neural Networks]
+ 2. Week2 - [Natural Language Processing & Word Embeddings]
+ 3. Week3 - [Sequence models & Attention mechanism]
 
  * [测验题Quiz]()
  * [编程作业题]()
