@@ -8,10 +8,10 @@
 
  ## Course 1. [神经网络和深度学习 Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
  
-1. Week1 - [Introduction to deep learning]()
-2. Week2 - [Neural Networks Basics]()
-3. Week3 - [Shallow neural networks]()
-4. Week4 - [Deep Neural Networks]()
+1. Week1 - [第一周：深度学习引言(Introduction to Deep Learning)]()
+2. Week2 - [第二周：神经网络的编程基础(Basics of Neural Network programming)]()
+3. Week3 - [第三周：浅层神经网络(Shallow neural networks)]()
+4. Week4 - [第四周：深层神经网络(Deep Neural Networks)]()
 
 ## Course 2. [改善深层神经网络 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 
