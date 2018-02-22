@@ -14,13 +14,13 @@
 
 
  
-1. Week1 - [第一周：深度学习引言(Introduction to Deep Learning)]()
-2. Week2 - [第二周：神经网络的编程基础(Basics of Neural Network programming)]()
-3. Week3 - [第三周：浅层神经网络(Shallow neural networks)]()
-4. Week4 - [第四周：深层神经网络(Deep Neural Networks)]()
+1. Week1 - [第一周：深度学习引言(Introduction to Deep Learning)]
+2. Week2 - [第二周：神经网络的编程基础(Basics of Neural Network programming)]
+3. Week3 - [第三周：浅层神经网络(Shallow neural networks)]
+4. Week4 - [第四周：深层神经网络(Deep Neural Networks)]
 
  * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/01%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
- * [编程作业题]()
+ * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/01%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Code%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/deeplearning%E7%AC%AC1%E4%B8%93%E9%A2%98%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/deeplearning%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A)
 
 
 ## Course 2. [改善深层神经网络 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
@@ -35,7 +35,7 @@
 3. Week3 - [第三周超参数调试，batch正则化和程序框架（Hyperparameter tuning, Batch Normalization and Programming Frameworks)]()
 
  * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/02%E6%94%B9%E5%96%84%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
- * [编程作业题]()
+ * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/02%E6%94%B9%E5%96%84%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Code%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A/deeplearning%E7%AC%AC2%E4%B8%93%E9%A2%98%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A)
 
 ## Course 3. [结构化机器学习项目 Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 
