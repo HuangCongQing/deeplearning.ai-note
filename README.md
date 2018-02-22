@@ -3,7 +3,7 @@
 * 网易云视频教程地址：https://mooc.study.163.com/university/deeplearning_ai#/c
 * Coursera视频（收费，不过可以申请免费）：https://www.coursera.org/specializations/deep-learning
 
-###  **[笔记在线阅读](http://www.ai-start.com/dl2017)**
+###  **[笔记在线阅读http://www.ai-start.com/dl2017](http://www.ai-start.com/dl2017)**
 ### 目录结构
 ```
 ├─01神经网络和深度学习
