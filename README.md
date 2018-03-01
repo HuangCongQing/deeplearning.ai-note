@@ -51,7 +51,7 @@
          - End-to-end deep learning
 
  * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/03%E7%BB%93%E6%9E%84%E5%8C%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/Quiz%E6%B5%8B%E9%AA%8C%E9%A2%98)
- * [编程作业题]()
+ * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/03结构化机器学习项目)
          
  ## Course 4. [卷积神经网络 Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
  
@@ -60,15 +60,15 @@
  3. Week3 - [第三周 目标检测（Object detection）]
  4. Week4 - [第四周 特殊应用：人脸识别和神经风格转换（Special applications: Face recognition &Neural style transfer）]
 
- * [测验题Quiz]()
- * [编程作业题]()
+ * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/04卷积神经网络/)
+ * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/04%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/Code%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A)
  ## Course 5. [序列模型 Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
  1. Week1 - [Recurrent Neural Networks]
  2. Week2 - [Natural Language Processing & Word Embeddings]
  3. Week3 - [Sequence models & Attention mechanism]
 
- * [测验题Quiz]()
- * [编程作业题]()
+ * [测验题Quiz](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/05序列模型/)
+ * [编程作业题](https://github.com/HuangCongQing/deeplearning.ai-note/tree/master/05序列模型/)
 
  ### 目录结构
 ```
