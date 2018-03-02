@@ -1,6 +1,7 @@
 # deeplearning.ai-note
 * 本**仓库[deeplearning.ai-note](https://github.com/HuangCongQing/deeplearning.ai-note)由[重庆](https://github.com/HuangCongQing)原创整理**，供大家学习交流！有疑问欢迎[Issues](https://github.com/HuangCongQing/deeplearning.ai-note/issues)
-* 如果觉得此项目对你有所帮助，记得**点击右上方的Sta**r噢 ^_^**
+* 如果觉得此项目对你有所帮助，记得**点击右上方的Star**噢 ^_^**
+* 更多资料分享和技术交流，可加入吴恩达深度学习交流群：[680932474](shang.qq.com/wpa/qunwpa?idkey=818b153dea773070e66ae0db005f18869fef45db6d18a6a9455e8509e980755c)
 
 吴恩达在Coursera上推出的“深度学习专项课程“引起了一波AI学习热潮，而自发布以来，国内学习者对于课程汉化的呼声也从未停止。前些天，网易云课堂终于官方发布了经过授权的汉化课程
 * 网易云视频教程地址：https://mooc.study.163.com/university/deeplearning_ai#/c
