@@ -114,7 +114,5 @@ License MIT
 
 此外，代码仅作学习深度学习专项课程(Deep Learning Specialization on Coursera)所用，代码和笔记禁止私用，违者必究
 
-#### 下为学习课程图片
 
-![学习课程](http://ojmcn9nlw.qnssl.com/blog/20170903/220626537.png?imageslim)
 
