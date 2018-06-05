@@ -1,5 +1,8 @@
 # deeplearning.ai-note
 * 本**仓库[deeplearning.ai-note](https://github.com/HuangCongQing/deeplearning.ai-note)由[重庆](https://github.com/HuangCongQing)原创整理**，供大家学习交流！有疑问欢迎[Issues](https://github.com/HuangCongQing/deeplearning.ai-note/issues)
+
+* Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Thx
+
 * 如果觉得此项目对你有所帮助，记得**点击右上方的Star**噢 ^_^**
 * 更多资料分享和技术交流，可加入**吴恩达深度学习交流群：680932474**
 
