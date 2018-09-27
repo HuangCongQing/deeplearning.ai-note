@@ -9,6 +9,7 @@
 吴恩达在Coursera上推出的“深度学习专项课程“引起了一波AI学习热潮，而自发布以来，国内学习者对于课程汉化的呼声也从未停止。前些天，网易云课堂终于官方发布了经过授权的汉化课程
 * 网易云视频教程地址：https://mooc.study.163.com/university/deeplearning_ai#/c
 * Coursera视频（收费，不过可以申请免费）：https://www.coursera.org/specializations/deep-learning
+    * [Coursera如何申请免费助学金？](https://mp.weixin.qq.com/s/sPnxScXfPHCzZIudp_iZBQ)
 
 ###  **[笔记在线阅读http://www.ai-start.com/dl2017](http://www.ai-start.com/dl2017)**
 
