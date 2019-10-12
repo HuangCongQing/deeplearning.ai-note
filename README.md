@@ -5,7 +5,7 @@
 
 * 如果觉得此项目对你有所帮助，记得**点击右上方的Star**噢 ^_^**
 * 更多资料分享和技术交流，可加入**吴恩达深度学习交流群：680932474**
-
+* **【20191012】[github标星8331+：吴恩达深度学习课程资源（完整笔记、中英文字幕视频、python作业，提供百度云镜像！）](https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247485396&idx=1&sn=4c36f881e227f1559136d94dd9b8808c&chksm=e9d01715dea79e03806f925c113249717dec6291b0684734d42ae21451b7fb790f92b9894c07&scene=0&xtrack=1&key=4bf9c06e1cf58bb56e906ba2ca290a433f53d64224f0db7fba3659111808402a9561be25d2b750a8a89cad384d9185803d4abd0923acc76b968399fcbed7ab985ec277bd0365610527233d7e2ae77687&ascene=1&uin=MTc4MDQ3MjAzMg%3D%3D&devicetype=Windows+7&version=62070141&lang=zh_CN&pass_ticket=k5jMU3CsVrE%2FmrPKoqXGw7etYbQ8j9CwvDK80%2B2SSLn185Y621qDutbUvYBNSr%2BW)**
 吴恩达在Coursera上推出的“深度学习专项课程“引起了一波AI学习热潮，而自发布以来，国内学习者对于课程汉化的呼声也从未停止。前些天，网易云课堂终于官方发布了经过授权的汉化课程
 * 网易云视频教程地址：https://mooc.study.163.com/university/deeplearning_ai#/c
 * Coursera视频（收费，不过可以申请免费）：https://www.coursera.org/specializations/deep-learning
