@@ -112,6 +112,10 @@
 
 持续更新中... ...
 
+#### 可参考
+*  [greebear](https://github.com/greebear)/**[deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)**
+
+
 #### 开源许可证 License MIT 
 
 * 开源是一种精神，MachineLearning_Ng的开源更是人的一种进步
