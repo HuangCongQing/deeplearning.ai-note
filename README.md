@@ -6,7 +6,7 @@
 * 更多资料分享和技术交流，可加入**吴恩达深度学习交流群：680932474**
 * **[黄海广博士的资源汇总](https://mp.weixin.qq.com/s/i8kRSRPsqsQkqcIDPmu1RA)**
 * **[何宽 - 【deplearning.ai】【吴恩达课后作业汇总】- CSDN](https://blog.csdn.net/u013733326/article/details/79827273)**
-* **[(荐)中文版测试题](https://www.kesci.com/home/project/5e20243e2823a10036b542da)**
+* **[(荐)中文版Quiz测试题](https://www.kesci.com/home/project/5e20243e2823a10036b542da)**
 
 吴恩达在Coursera上推出的“深度学习专项课程“引起了一波AI学习热潮，而自发布以来，国内学习者对于课程汉化的呼声也从未停止。前些天，网易云课堂终于官方发布了经过授权的汉化课程
 ### 视频
