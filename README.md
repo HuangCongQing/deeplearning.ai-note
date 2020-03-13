@@ -1,5 +1,5 @@
 # deeplearning.ai-note
-* 本**仓库[deeplearning.ai-note](https://github.com/HuangCongQing/deeplearning.ai-note)由[重庆](https://github.com/HuangCongQing)整理**，供大家学习交流！有疑问欢迎[Issues](https://github.com/HuangCongQing/deeplearning.ai-note/issues)
+* 本**仓库[deeplearning.ai-note](https://github.com/HuangCongQing/deeplearning.ai-note)由[双愚](https://github.com/HuangCongQing)整理**，供大家学习交流！有疑问欢迎[Issues](https://github.com/HuangCongQing/deeplearning.ai-note/issues)
 
 * Fork或借鉴请注明出处 [@双愚](https://github.com/HuangCongQing) . Thx
 
