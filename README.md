@@ -115,6 +115,7 @@
 持续更新中... ...
 
 #### 可参考
+* [Kulbear](https://github.com/Kulbear)/**[deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera)**
 *  [greebear](https://github.com/greebear)/**[deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)**
 
 
