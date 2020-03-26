@@ -7,7 +7,8 @@
 * **[黄海广博士的资源汇总](https://mp.weixin.qq.com/s/i8kRSRPsqsQkqcIDPmu1RA)**
 * **[何宽 - 【deplearning.ai】【吴恩达课后作业汇总】- CSDN](https://blog.csdn.net/u013733326/article/details/79827273)**
 * **[(荐)中文版Quiz测试题](https://www.kesci.com/home/project/5e20243e2823a10036b542da)**
-
+* 代码讲解视频(bilibili): https://space.bilibili.com/10410626
+[](https://github.com/greebear/deeplearning.ai-notes/raw/master/assets/bilibiliDemo.jpg)
 吴恩达在Coursera上推出的“深度学习专项课程“引起了一波AI学习热潮，而自发布以来，国内学习者对于课程汉化的呼声也从未停止。前些天，网易云课堂终于官方发布了经过授权的汉化课程
 ### 视频
 * **(荐)哔哩哔哩up上传中英字幕课程：https://space.bilibili.com/288630933**
@@ -116,8 +117,8 @@
 
 #### 可参考
 * [Kulbear](https://github.com/Kulbear)/**[deep-learning-coursera](https://github.com/Kulbear/deep-learning-coursera)**
-*  [greebear](https://github.com/greebear)/**[deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)**
-
+* [greebear](https://github.com/greebear)/**[deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)**
+* [greebear](https://github.com/greebear)/**[deeplearning.ai-notes](https://github.com/greebear/deeplearning.ai-notes)**
 
 #### 开源许可证 License MIT 
 
